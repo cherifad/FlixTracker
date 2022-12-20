@@ -1,0 +1,12 @@
+export declare type IExtensionName = `x-${string}`;
+export declare type IExtensionType = any;
+export declare type ISpecificationExtension = {
+    [extensionName: IExtensionName]: IExtensionType;
+};
+export declare class SpecificationExtension implements ISpecificationExtension {
+    [extensionName: IExtensionName]: any;
+    static isValidExtension(extensionName: string): boolean;
+    getExtension(extensionName: string): any;
+    addExtension(extensionName: string, payload: any): void;
+    listExtensions(): string[];
+}
