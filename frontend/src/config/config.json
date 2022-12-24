@@ -1,0 +1,20 @@
+{
+    "TMDB_API_KEY": "94442feed8c0aeb0975338fc74f6b894",
+    "TMDB_API_URL": "https://api.themoviedb.org/3",
+    "TMDB_API_IMAGE_URL": "https://image.tmdb.org/t/p/",
+    "TMDB_API_IMAGE_SIZE": "w500",
+    "TMDB_API_IMAGE_SIZE_ORIGINAL": "original",
+    "TMDB_API_IMAGE_SIZE_BACKDROP": "w780",
+    "TMDB_API_IMAGE_SIZE_PROFILE": "w185",
+    "TMDB_API_IMAGE_SIZE_LOGO": "w92",
+    "TMDB_API_IMAGE_SIZE_POSTER": "w342",
+    "TMDB_API_IMAGE_SIZE_STILL": "w185",
+    "TMDB_API_IMAGE_SIZE_THUMB": "w45",
+    "TMDB_API_IMAGE_SIZE_SMALL": "w154",
+    "TMDB_API_IMAGE_SIZE_MEDIUM": "w185",
+    "TMDB_API_IMAGE_SIZE_LARGE": "w342",
+    "TMDB_API_IMAGE_SIZE_XLARGE": "w500",
+    "TMDB_API_IMAGE_SIZE_XXLARGE": "w780",
+    "LOCAL_DB_TOKEN": "BmPxK1eIbtyokOdUhxwAaRCMfVqmJQyO",
+    "LOCAL_DB_URL": "http://127.0.0.1:8055/"
+}
